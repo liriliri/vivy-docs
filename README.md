@@ -1,2 +1,3 @@
-# vivy-docs
-VIVY website
+# VIVY
+
+Stable diffusion desktop application.
