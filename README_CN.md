@@ -19,7 +19,7 @@ VIVY 是内置 [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable
 * 提示词一键翻译中文
 * 粘贴生成参数
 * 读取图片生成参数
-* 图片生成任务对列
+* 图片生成任务队列
 * 方便的图库浏览
 * 可调整的用户界面
 * 应用 CPU 和内存占用监控
@@ -27,4 +27,4 @@ VIVY 是内置 [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable
 
 ## 备注
 
-该仓库仅用于 VIVY 版本发布和问题反馈。
+该仓库仅用于 VIVY [版本发布](https://github.com/liriliri/vivy-docs/releases/)和[问题反馈](https://github.com/liriliri/vivy-docs/issues)。
