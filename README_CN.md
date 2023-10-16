@@ -16,6 +16,7 @@ VIVY 是内置 [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable
 * 提示词编辑高亮显示
 * 提示词编辑 Danbooru 标签补全提示
 * 提示词格式化
+* 提示词一键翻译中文
 * 粘贴生成参数
 * 读取图片生成参数
 * 图片生成任务对列
