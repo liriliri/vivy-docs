@@ -2,7 +2,7 @@
 
 VIVY 是内置 [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 并基于其 [API](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/API) 重新编写用户界面的 Stable Diffusion 桌面应用。
 
-![vivy](https://res.liriliri.io/other/vivy.png)
+![vivy](https://vivy.liriliri.io/screenshot.png)
 
 ## 安装
 

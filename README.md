@@ -4,7 +4,7 @@
 
 VIVY is a desktop application for Stable Diffusion that rewrites [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)'s user interface based on its [API](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/API).
 
-![vivy](https://res.liriliri.io/other/vivy.png)
+![vivy](https://vivy.liriliri.io/screenshot.png)
 
 ## Installation
 
