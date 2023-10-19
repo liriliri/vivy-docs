@@ -1,0 +1,28 @@
+{
+  "name": "vivy-docs",
+  "version": "0.1.0",
+  "description": "VIVY docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liriliri/vivy-docs.git"
+  },
+  "keywords": [
+    "vivy"
+  ],
+  "author": "surunzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liriliri/vivy-docs/issues"
+  },
+  "homepage": "https://github.com/liriliri/vivy-docs#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.22"
+  }
+}

@@ -28,4 +28,4 @@ Currently, the application does not include any model files. Users need to downl
 
 ## Note
 
-This repo is only used for VIVY [releases](https://github.com/liriliri/vivy-docs/releases/) and [issue reporting](https://github.com/liriliri/vivy-docs/issues).
+This repo is also used for VIVY [releases](https://github.com/liriliri/vivy-docs/releases/) and [issue reporting](https://github.com/liriliri/vivy-docs/issues).

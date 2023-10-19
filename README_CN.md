@@ -27,4 +27,4 @@ VIVY 是内置 [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable
 
 ## 备注
 
-该仓库仅用于 VIVY [版本发布](https://github.com/liriliri/vivy-docs/releases/)和[问题反馈](https://github.com/liriliri/vivy-docs/issues)。
+该仓库同时用于 VIVY [版本发布](https://github.com/liriliri/vivy-docs/releases/)和[问题反馈](https://github.com/liriliri/vivy-docs/issues)。
