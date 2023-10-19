@@ -1,5 +1,4 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 title: VIVY
@@ -21,36 +20,16 @@ hero:
     alt: screenshot    
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon:
+      src: /rocket.svg
+    title: 开箱即用 
+    details: 内置 Stable Diffusion web UI，下载安装即可使用，无需繁琐的 python、git 安装配置。
+  - icon:
+      src: /paint.svg
+    title: 简单易用
+    details: 支持任务队列，用户可边生成图片边对结果进行浏览处理，同时支持对界面各区域大小进行调整。
+  - icon:
+      src: /keyboard.svg
+    title: 提示词编辑
+    details: 提高提示词编辑体验，支持高亮、格式化、中文翻译、标签补全提示、从图片中读取生成参数等功能。
 ---
-<style>
-:root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
-
-  --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
-  --vp-home-hero-image-filter: blur(40px);
-}
-
-.VPHero .VPImage {
-  max-width: 100%;
-  max-height: 100%;
-}
-
-@media (min-width: 640px) {
-  :root {
-    --vp-home-hero-image-filter: blur(56px);
-  }
-}
-
-@media (min-width: 960px) {
-  :root {
-    --vp-home-hero-image-filter: blur(72px);
-  }
-}
-</style>

@@ -1,25 +1,35 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
+
+title: VIVY
+titleTemplate: Stable Diffusion 桌面应用
 
 hero:
   name: "VIVY"
-  text: "VIVY Documentation"
-  tagline: My great project tagline
+  text: "Stable Diffusion Desktop App"
+  tagline: VIVY is a desktop application for Stable Diffusion that rewrites Stable Diffusion web UI's user interface based on its API.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Get Started
+      link: /guide/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Download
+      link: https://github.com/liriliri/vivy-docs/releases
+  image:
+    src: /screenshot.png
+    alt: screenshot    
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon:
+      src: /rocket.svg
+    title: Easy to Install 
+    details: With built-in Stable Diffusion web UI, simply download and install, no need for Python or Git installation and configuration.
+  - icon:
+      src: /paint.svg
+    title: Easy to Use
+    details: Supports task queue, allowing users to generate images while browsing and processing the results. It also supports adjusting the size of different areas in the interface.
+  - icon:
+      src: /keyboard.svg
+    title: Prompt Editting
+    details: Enhances the experience of prompt editing by supporting features such as highlighting, formatting, tag autocomplete, and read parameters from generated images.
 ---
-

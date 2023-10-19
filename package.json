@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
-    "preview": "vitepress preview docs"
+    "preview": "vitepress preview docs",
+    "format": "lsla prettier \"*.json\" \"docs/**/*.mts\" --write"
   },
   "repository": {
     "type": "git",

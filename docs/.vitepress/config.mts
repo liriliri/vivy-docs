@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "VIVY",
-  description: "VIVY Documentation",
+  title: 'VIVY',
+  description: 'VIVY Documentation',
   outDir: '../dist',
   themeConfig: {
     logo: {
@@ -13,15 +13,20 @@ export default defineConfig({
     },
     nav: [
       { text: '指南', link: '/guide/' },
-      { text: '更新日志', link: '/CHANGELOG.md'}
+      { text: '更新日志', link: '/CHANGELOG.md' },
     ],
     sidebar: [],
-    socialLinks: []
+    socialLinks: [
+      {
+        icon: 'github',
+        link: 'https://github.com/liriliri/vivy-docs',
+      },
+    ],
   },
   locales: {
     root: {
       label: '中文',
-      lang: 'zh'
+      lang: 'zh',
     },
     en: {
       label: 'English',
@@ -29,9 +34,9 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Guide', link: '/en/guide/' },
-          { text: 'Changelog', link: '/en/CHANGELOG.md'}
-        ]
-      }
-    }
-  }
+          { text: 'Changelog', link: '/en/CHANGELOG.md' },
+        ],
+      },
+    },
+  },
 })
