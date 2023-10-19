@@ -12,8 +12,8 @@ export default defineConfig({
       height: 24,
     },
     nav: [
-      { text: '指南', link: '/guide/' },
-      { text: '更新日志', link: '/CHANGELOG.md' },
+      { text: 'Guide', link: '/guide/' },
+      { text: 'Changelog', link: '/CHANGELOG.md' },
     ],
     sidebar: [],
     socialLinks: [
@@ -25,16 +25,16 @@ export default defineConfig({
   },
   locales: {
     root: {
-      label: '中文',
-      lang: 'zh',
-    },
-    en: {
       label: 'English',
       lang: 'en',
+    },
+    zh: {
+      label: '中文',
+      lang: 'zh',
       themeConfig: {
         nav: [
-          { text: 'Guide', link: '/en/guide/' },
-          { text: 'Changelog', link: '/en/CHANGELOG.md' },
+          { text: '指南', link: '/zh/guide/' },
+          { text: '更新日志', link: '/zh/CHANGELOG.md' },
         ],
       },
     },

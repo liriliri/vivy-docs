@@ -6,14 +6,14 @@ titleTemplate: Stable Diffusion 桌面应用
 
 hero:
   name: "VIVY"
-  text: "Stable Diffusion 桌面应用"
-  tagline: VIVY 是内置 Stable Diffusion web UI 并基于其 API 重新编写用户界面的 Stable Diffusion 桌面应用。
+  text: "Stable Diffusion Desktop App"
+  tagline: VIVY is a desktop application for Stable Diffusion that rewrites Stable Diffusion web UI's user interface based on its API.
   actions:
     - theme: brand
-      text: 快速上手
+      text: Get Started
       link: /guide/
     - theme: alt
-      text: 下载 
+      text: Download
       link: https://github.com/liriliri/vivy-docs/releases
   image:
     src: /screenshot.png
@@ -22,14 +22,14 @@ hero:
 features:
   - icon:
       src: /rocket.svg
-    title: 开箱即用 
-    details: 内置 Stable Diffusion web UI，下载安装即可使用，无需繁琐的 python、git 安装配置。
+    title: Easy to Install 
+    details: With built-in Stable Diffusion web UI, simply download and install, no need for Python or Git installation and configuration.
   - icon:
       src: /paint.svg
-    title: 简单易用
-    details: 支持任务队列，用户可边生成图片边对结果进行浏览处理，同时支持对界面各区域大小进行调整。
+    title: Easy to Use
+    details: Supports task queue, allowing users to generate images while browsing and processing the results. It also supports adjusting the size of different areas in the interface.
   - icon:
       src: /keyboard.svg
-    title: 提示词编辑
-    details: 提高提示词编辑体验，支持高亮、格式化、中文翻译、标签补全提示、从图片中读取生成参数等功能。
+    title: Prompt Editting
+    details: Enhances the experience of prompt editing by supporting features such as highlighting, formatting, tag autocomplete, and read parameters from generated images.
 ---
