@@ -2,7 +2,7 @@
 layout: home
 
 title: VIVY
-titleTemplate: Stable Diffusion 桌面应用
+titleTemplate: Stable Diffusion Desktop App 
 
 hero:
   name: "VIVY"
