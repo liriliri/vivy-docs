@@ -1,10 +1,21 @@
-[中文](README_CN.md)
+<a href="https://vivy.liriliri.io/" target="_blank">
+  <img src="https://vivy.liriliri.io/banner.jpg" style="width:100%">
+</a>
 
-# VIVY
+<h1 align="center">VIVY</h1>
+
+<div align="center">
+
+Stable diffusion desktop app.
+
+</div>
+
+<img src="https://vivy.liriliri.io/screenshot.png" style="width:100%">
+
+[中文](README_CN.md)
 
 VIVY is a desktop application for Stable Diffusion that rewrites [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)'s user interface based on its [API](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/API).
 
-![vivy](https://vivy.liriliri.io/screenshot.png)
 
 ## Installation
 
