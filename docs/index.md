@@ -13,8 +13,11 @@ hero:
       text: Get Started
       link: /guide/
     - theme: alt
-      text: Download
-      link: https://github.com/liriliri/vivy-docs/releases
+      text: Windows
+      link: https://release.liriliri.io/VIVY-0.6.0-win.zip
+    - theme: alt
+      text: macOS
+      link: https://release.liriliri.io/VIVY-0.6.0-arm64.dmg 
   image:
     src: /screenshot.png
     alt: screenshot    
