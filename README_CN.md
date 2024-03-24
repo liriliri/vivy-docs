@@ -10,7 +10,7 @@ Stable diffusion 桌面应用。
 
 </div>
 
-<img src="https://vivy.liriliri.io/screenshot.png" style="width:100%">
+<img src="https://vivy.liriliri.io/zh/screenshot.png" style="width:100%">
 
 
 VIVY 是内置 [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 并基于其 [API](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/API) 重新编写用户界面的 Stable Diffusion 桌面应用。
