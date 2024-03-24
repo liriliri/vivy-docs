@@ -38,15 +38,15 @@ VIVY 是内置 [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable
 
 ### 提示词生成器
 
-<img src="https://vivy.liriliri.io/prompt_builder.png" style="width:100%">
+<img src="https://vivy.liriliri.io/zh/prompt_builder.png" style="width:100%">
 
 ### 涂鸦
 
-<img src="https://vivy.liriliri.io/sketch.png" style="width:100%">
+<img src="https://vivy.liriliri.io/zh/sketch.png" style="width:100%">
 
 ### 模型管理器
 
-<img src="https://vivy.liriliri.io/model_manager.png" style="width:100%">
+<img src="https://vivy.liriliri.io/zh/model_manager.png" style="width:100%">
 
 ## 备注
 
