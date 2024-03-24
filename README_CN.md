@@ -36,6 +36,18 @@ VIVY 是内置 [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable
 * 应用 CPU 和内存占用监控
 * 模型文件管理
 
+### 提示词生成器
+
+<img src="https://vivy.liriliri.io/prompt_builder.png" style="width:100%">
+
+### 涂鸦
+
+<img src="https://vivy.liriliri.io/sketch.png" style="width:100%">
+
+### 模型管理器
+
+<img src="https://vivy.liriliri.io/model_manager.png" style="width:100%">
+
 ## 备注
 
 该仓库同时用于 VIVY [版本发布](https://github.com/liriliri/vivy-docs/releases/)和[问题反馈](https://github.com/liriliri/vivy-docs/issues)。

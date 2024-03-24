@@ -37,6 +37,18 @@ Currently, the application does not include any model files. Users need to downl
 * CPU and memory usage monitoring
 * Model file management
 
+### Prompt Builder
+
+<img src="https://vivy.liriliri.io/prompt_builder.png" style="width:100%">
+
+### Sketch
+
+<img src="https://vivy.liriliri.io/sketch.png" style="width:100%">
+
+### Model Manager
+
+<img src="https://vivy.liriliri.io/model_manager.png" style="width:100%">
+
 ## Note
 
 This repo is also used for VIVY [releases](https://github.com/liriliri/vivy-docs/releases/) and [issue reporting](https://github.com/liriliri/vivy-docs/issues).
