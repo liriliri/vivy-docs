@@ -19,7 +19,7 @@ hero:
       text: macOS
       link: https://release.liriliri.io/VIVY-0.8.0-arm64.dmg
   image:
-    src: /screenshot.png
+    src: /zh/screenshot.png
     alt: screenshot    
 
 features:
