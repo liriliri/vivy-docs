@@ -14,10 +14,10 @@ hero:
       link: /guide/
     - theme: alt
       text: Windows
-      link: https://release.liriliri.io/VIVY-0.10.0-win.zip
+      link: https://release.liriliri.io/VIVY-0.11.0-win.zip
     - theme: alt
       text: macOS
-      link: https://release.liriliri.io/VIVY-0.10.0-arm64.dmg
+      link: https://release.liriliri.io/VIVY-0.11.0-arm64.dmg
   image:
     src: /zh/screenshot.png
     alt: screenshot    
