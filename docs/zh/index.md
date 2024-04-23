@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 快速上手
-      link: /guide/
+      link: /zh/guide/
     - theme: alt
       text: Windows
       link: https://release.liriliri.io/VIVY-0.11.0-win.zip
