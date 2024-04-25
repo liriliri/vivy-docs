@@ -38,6 +38,7 @@ export default defineConfig({
       label: '中文',
       lang: 'zh',
       themeConfig: {
+        outlineTitle: '在这一页上',
         nav: [
           { text: '指南', link: '/zh/guide/' },
           { text: '更新日志', link: '/zh/CHANGELOG.md' },
@@ -71,6 +72,10 @@ export default defineConfig({
               collapsed: false,
               items: [
                 {
+                  text: '用户界面',
+                  link: '/zh/guide/usage/ui',
+                },
+                {
                   text: '模型管理',
                   link: '/zh/guide/usage/model',
                 },
@@ -79,20 +84,20 @@ export default defineConfig({
                   link: '/zh/guide/usage/txt2img',
                 },
                 {
-                  text: '图生图',
-                  link: '/zh/guide/usage/img2img',
-                },
-                {
                   text: '提示词编辑器',
                   link: '/zh/guide/usage/prompt-builder',
                 },
                 {
-                  text: '参数导入',
-                  link: '/zh/guide/usage/import-params',
+                  text: '图生图',
+                  link: '/zh/guide/usage/img2img',
                 },
                 {
                   text: '局部重绘',
                   link: '/zh/guide/usage/inpaint',
+                },
+                {
+                  text: '参数导入',
+                  link: '/zh/guide/usage/import-params',
                 },
                 {
                   text: '高清化',
