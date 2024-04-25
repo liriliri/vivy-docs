@@ -14,7 +14,7 @@ hero:
       link: /zh/guide/
     - theme: alt
       text: Windows
-      link: https://release.liriliri.io/VIVY-0.11.0-win.zip
+      link: https://release.liriliri.io/VIVY-0.11.0-win.7z
     - theme: alt
       text: macOS
       link: https://release.liriliri.io/VIVY-0.11.0-arm64.dmg
