@@ -33,6 +33,10 @@
   max-height: 100%;
 }
 
+.custom-block {
+  padding: 8px 16px;
+}
+
 @media (min-width: 640px) {
   :root {
     --vp-home-hero-image-filter: blur(56px);

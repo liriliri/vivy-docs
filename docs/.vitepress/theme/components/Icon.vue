@@ -10,4 +10,9 @@ const props = defineProps({
 
 <style>
 @import './icon.css';
+[class^='icon-'],
+[class*=' icon-'] {
+  position: relative;
+  top: 2px;
+}
 </style>

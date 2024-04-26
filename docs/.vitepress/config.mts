@@ -54,10 +54,6 @@ export default defineConfig({
               collapsed: false,
               items: [
                 {
-                  text: '硬件要求',
-                  link: '/zh/guide/basics/requirements',
-                },
-                {
                   text: '安装',
                   link: '/zh/guide/basics/installation',
                 },
@@ -102,6 +98,10 @@ export default defineConfig({
                 {
                   text: '高清化',
                   link: '/zh/guide/usage/upscale',
+                },
+                {
+                  text: '使用 AMD 显卡',
+                  link: '/zh/guide/usage/amd',
                 },
               ],
             },
