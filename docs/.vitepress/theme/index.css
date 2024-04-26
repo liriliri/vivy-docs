@@ -37,6 +37,11 @@
   padding: 8px 16px;
 }
 
+.vp-doc img {
+  border-radius: 12px;
+  border: 1px solid #eaecef;
+}
+
 @media (min-width: 640px) {
   :root {
     --vp-home-hero-image-filter: blur(56px);
