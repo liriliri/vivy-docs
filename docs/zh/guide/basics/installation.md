@@ -8,7 +8,7 @@ VIVY 是跑在本地电脑上的 Stable Diffusion 应用，对所在设备的性
 
 因为模型文件较大，建议内存不少于 **16 GB**，相应的存储空间至少在 **20 GB** 以上。对于显卡，建议显存至少 **4GB** 以上。由于需要用到 [CUDA](https://developer.nvidia.com/cuda-toolkit) 加速，使用**英伟达显卡**效果最好。当然没有独显也可以用 CPU 花几百倍时间生成，基本不可用。
 
-SD-WebUI 官方版本尚未支持 AMD 显卡，因此在 VIVY 中无法直接使用，请阅读[使用 AMD 显卡](/zh/guide/usage/amd.md)。
+SD-WebUI 官方版本尚未支持 AMD 显卡，因此在 VIVY 中无法直接使用，请阅读 [AMD 显卡](/zh/guide/usage/amd.md)。
 
 下载[安装包](https://release.liriliri.io/VIVY-0.11.0-win.7z)并解压到指定路径，双击打开 **VIVY.exe** 即可启动运行。
 

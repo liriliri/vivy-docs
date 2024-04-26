@@ -10,6 +10,9 @@ export default defineConfig({
   lastUpdated: true,
   outDir: '../dist',
   themeConfig: {
+    search: {
+      provider: 'local',
+    },
     logo: {
       src: '/icon.png',
       width: 24,
@@ -100,7 +103,7 @@ export default defineConfig({
                   link: '/zh/guide/usage/upscale',
                 },
                 {
-                  text: '使用 AMD 显卡',
+                  text: 'AMD 显卡',
                   link: '/zh/guide/usage/amd',
                 },
               ],

@@ -1,3 +1,3 @@
-# 使用 AMD 显卡
+# AMD 显卡
 
 TODO
