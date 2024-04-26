@@ -8,6 +8,7 @@ export default defineConfig({
   title: 'VIVY',
   description: 'VIVY Documentation',
   lastUpdated: true,
+  ignoreDeadLinks: true,
   outDir: '../dist',
   themeConfig: {
     logo: {
