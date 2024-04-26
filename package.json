@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/liriliri/vivy-docs#readme",
   "devDependencies": {
+    "licia": "^1.39.2",
     "vitepress": "^1.0.0-rc.22"
   }
 }

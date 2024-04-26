@@ -22,7 +22,7 @@
 
 ## 工程导入
 
-想要 AI 绘画出心中理想的效果需要填写提示词及一众参数，这里我们暂时略过，直接下载 [example.vivy](/example.vivy) 文件通过菜单栏的 文件 -> 打开 导入工程文件。
+想要 AI 绘画出心中理想的效果需要填写提示词及一众参数，这里我们暂时略过，直接下载 <Download href="/example.vivy" name="example.vivy"/> 文件通过菜单栏的 文件 -> 打开 导入工程文件。
 
 ![示例](/zh/example.png)
 
