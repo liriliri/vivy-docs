@@ -12,4 +12,4 @@ SD-WebUI 尚未支持 AMD 显卡，目前对于 A 卡用户，[官方建议](htt
 
 ## 配置自定义参数
 
-对于 Direct-ml 版本，还需要设置额外的启动参数启用才行。同样在设置面板中，将**自定义参数**一项设置为 --backend directml 即可正常在 VIVY 中使用 Direct-ml 版本的 SD-WebUI。
+对于 Direct-ml 版本，还需要设置额外的启动参数启用才行。同样在设置面板中，将**自定义参数**一项设置为 `--backend directml` 即可正常在 VIVY 中使用 Direct-ml 版本的 SD-WebUI。
