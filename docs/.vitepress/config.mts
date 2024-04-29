@@ -83,6 +83,10 @@ export default defineConfig({
                   link: '/zh/guide/usage/txt2img',
                 },
                 {
+                  text: '参数导入',
+                  link: '/zh/guide/usage/import-params',
+                },
+                {
                   text: '提示词编辑器',
                   link: '/zh/guide/usage/prompt-builder',
                 },
@@ -93,10 +97,6 @@ export default defineConfig({
                 {
                   text: '局部重绘',
                   link: '/zh/guide/usage/inpaint',
-                },
-                {
-                  text: '参数导入',
-                  link: '/zh/guide/usage/import-params',
                 },
                 {
                   text: '高清化',
