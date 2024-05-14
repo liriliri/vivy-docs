@@ -6,6 +6,9 @@ SD-WebUI 尚未支持 AMD 显卡，目前对于 A 卡用户，[官方建议](htt
 
 这里以[秋叶 Direct-ml 整合包](https://www.bilibili.com/read/cv26557731/)为例。先将整合包下载安装并运行成功，然后点击 VIVY 工具栏右侧的 <Icon name="setting"/> 打开设置面板，将 **Stable Diffusion web UI 位置**设置为整合包安装路径，如：D:\sd-webui-aki-directml-v4.4。
 
+::: warning 尽量使用与当前 VIVY 内置版本一致或相近的 SD-WebUI 版本，不然可能会出现启动失败或部分功能无法使用的情况。
+:::
+
 ## 配置 Python 位置
 
 如果未将 Python 安装到全局并使用其启动 SD-WebUI，比如整合包一般使用的是内置的 Python，就必须设置 **Python 位置**才能正常使用，如：D:\sd-webui-aki-directml-v4.4\python\python.exe。
