@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.13.0 (19 May 2024)
+
+* feat: control net
+* fix: window position not restored when maximized
+
 ## v0.12.0 (13 May 2024)
 
 * feat: face restoration
