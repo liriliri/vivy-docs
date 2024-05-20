@@ -17,7 +17,7 @@ VIVY 的主界面分为五个部分，顶部是**工具栏**，底下是**状态
 
 ## 图片预览
 
-图片预览区的功能是查看生成图像情况，通过鼠标对图片快捷地进行缩放移动。另外，按方向键 `←` 和 `→` 可切换上一张和下一张图片，`Delete` 键则将删除图片。顶部工具栏功能包括：<Icon name="save"/> 保存图片、<Icon name="info"/> 图片生成信息、<Icon name="delete"/> 删除图片和 <Icon name="fullscreen"/> 最大化，剩下的按钮均是针对当前图片的各种处理操作，具体内容可阅读[图片处理](/zh/guide/usage/image-processing)。
+图片预览区的功能是查看生成图像情况，通过鼠标对图片快捷地进行缩放移动。另外，按方向键 `←` 和 `→` 可切换上一张和下一张图片，`Delete` 键则将删除图片。顶部工具栏功能包括：<Icon name="save"/> 保存图片、<Icon name="info"/> 图片生成信息、<Icon name="delete"/> 删除图片和 <Icon name="fullscreen"/> 最大化，剩下的按钮均是针对当前图片的各种处理操作，具体内容可阅读[图片处理](/zh/guide/usage/img-processing)。
 
 ![图片预览](/zh/image_viewer.png)
 
