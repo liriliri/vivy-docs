@@ -99,8 +99,12 @@ export default defineConfig({
                   link: '/zh/guide/usage/inpaint',
                 },
                 {
-                  text: '高清化',
-                  link: '/zh/guide/usage/upscale',
+                  text: '图片处理',
+                  link: '/zh/guide/usage/img-processing',
+                },
+                {
+                  text: 'ControlNet',
+                  link: '/zh/guide/usage/control-net',
                 },
                 {
                   text: 'AMD 显卡',
