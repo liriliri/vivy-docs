@@ -112,6 +112,16 @@ export default defineConfig({
                 },
               ],
             },
+            {
+              text: 'Stable Diffusion',
+              collapsed: false,
+              items: [
+                {
+                  text: '模型',
+                  link: '/zh/guide/sd/model',
+                },
+              ],
+            },
           ],
         },
         editLink: {
