@@ -110,6 +110,10 @@ export default defineConfig({
                   text: 'AMD 显卡',
                   link: '/zh/guide/usage/amd',
                 },
+                {
+                  text: '常用问题',
+                  link: '/zh/guide/usage/faq',
+                },
               ],
             },
             {

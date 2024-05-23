@@ -1,6 +1,6 @@
 # 模型管理
 
-点击工具栏 <Icon name="model"/> 按钮打开模型管理器，其功能包括查看、添加、删除以及使用模型。模型种类通过左上角选择框切换，一共有四种：Stable Diffusion Checkpoint 模型、VAE 模型、Embedding 模型和 LoRA 模型。
+点击工具栏 <Icon name="model"/> 按钮打开模型管理器，其功能包括查看、添加、删除以及使用模型。模型种类通过左上角选择框切换，一共有[四种](/zh/guide/sd/model)：Stable Diffusion Checkpoint 模型、VAE 模型、Embedding 模型和 LoRA 模型。
 
 ![模型管理器](/zh/model_manager.png)
 

@@ -4,12 +4,7 @@
 
 ## 模型下载
 
-让 AI 绘画必须下载一个模型才能生成图像，常用的模型下载站有：
-
-* 国外有 [Civita](https://civitai.com/) 和 [Hugging Face](https://huggingface.co/)，需要科学上网
-* 国内有 [哩布哩布AI](https://www.liblib.art/) 和 [吐司](https://tusiart.com/)
-
-我们先下载 [GhostMix](https://www.liblib.art/modelinfo/cb8d7083b853b2361c243fdb03778b17) 这个模型到本地硬盘上。接着打开 VIVY，在顶部工具栏的左侧找到 <Icon name="model"/> 点击打开模型管理器。
+让 AI 绘画必须下载一个模型才能生成图像，国内常用的模型下载站有[吐司](https://tusiart.com/)和[哩布哩布AI](https://www.liblib.art/)。先下载 [GhostMix](https://www.liblib.art/modelinfo/cb8d7083b853b2361c243fdb03778b17) 这个模型到本地硬盘上。接着打开 VIVY，在顶部工具栏的左侧找到 <Icon name="model"/> 点击打开模型管理器。
 
 ![模型管理器](/zh/model_manager.png)
 
