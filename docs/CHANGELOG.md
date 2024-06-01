@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.15.0 (1 Jun 2024)
+
+* feat: open system previewer when double click
+* feat: vivy file association
+* feat: open recent projects
+
 ## v0.14.0 (27 May 2024)
 
 * feat: vram optimization setting

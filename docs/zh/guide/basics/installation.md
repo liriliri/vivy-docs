@@ -1,6 +1,6 @@
 # 安装
 
-VIVY 支持 [Windows x64](https://release.liriliri.io/VIVY-0.14.0-win.7z) 和 [macOS ARM](https://release.liriliri.io/VIVY-0.14.0-arm64.dmg) 两个平台。
+VIVY 支持 [Windows x64](https://release.liriliri.io/VIVY-0.15.0-win.7z) 和 [macOS ARM](https://release.liriliri.io/VIVY-0.15.0-arm64.dmg) 两个平台。
 
 ## Windows
 
@@ -10,11 +10,11 @@ VIVY 是跑在本地电脑上的 Stable Diffusion 应用，对所在设备的性
 
 SD-WebUI 官方版本尚未支持 AMD 显卡，因此在 VIVY 中无法直接使用，请阅读 [AMD 显卡](/zh/guide/usage/amd.md)。
 
-下载[安装包](https://release.liriliri.io/VIVY-0.14.0-win.7z)并解压到指定路径，双击打开 **VIVY.exe** 即可启动运行。
+下载[安装包](https://release.liriliri.io/VIVY-0.15.0-win.7z)并解压到指定路径，双击打开 **VIVY.exe** 即可启动运行。
 
 ::: tip 首次启动会稍慢一点，二次启动因为缓存速度会快上一点。
 :::
 
 ## macOS
 
-macOS 平台对内存和存储空间的要求与 Windows 一致，仅支持 ARM 芯片，直接下载[安装包](https://release.liriliri.io/VIVY-0.14.0-arm64.dmg)并安装运行即可。
+macOS 平台对内存和存储空间的要求与 Windows 一致，仅支持 ARM 芯片，直接下载[安装包](https://release.liriliri.io/VIVY-0.15.0-arm64.dmg)并安装运行即可。
