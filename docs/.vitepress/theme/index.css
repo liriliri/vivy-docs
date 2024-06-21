@@ -12,6 +12,11 @@
     #0e639c 50%
   );
   --vp-home-hero-image-filter: blur(40px);
+  --vp-nav-logo-height: 48px;
+}
+
+.VPImage.logo {
+  border-radius: 50%;
 }
 
 .dark {

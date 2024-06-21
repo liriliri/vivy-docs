@@ -35,9 +35,9 @@ export default defineConfig({
       },
     },
     logo: {
-      src: '/icon.png',
-      width: 24,
-      height: 24,
+      src: '/logo.png',
+      width: 48,
+      height: 48,
     },
     nav: [
       { text: 'Guide', link: '/guide/' },
