@@ -1,6 +1,8 @@
-<a href="https://vivy.liriliri.io/" target="_blank">
-  <img src="https://vivy.liriliri.io/banner.jpg" style="width:100%">
-</a>
+<div align="center">
+  <a href="https://vivy.liriliri.io/" target="_blank">
+    <img src="https://vivy.liriliri.io/icon.png" width="400">
+  </a>
+</div>
 
 <h1 align="center">VIVY</h1>
 
