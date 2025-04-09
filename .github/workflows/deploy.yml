@@ -1,0 +1,33 @@
+name: Deploy Vivy 
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+      with: 
+        path: project/vivy-docs
+    - uses: actions/setup-node@v4
+      with:
+        node-version: '18.x'
+    - working-directory: ./project/vivy-docs
+      run: |
+        npm i
+        npm run build
+        mkdir -p ../../page/vivy
+        cp -r dist/* ../../page/vivy
+    - uses: appleboy/scp-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        password: ${{ secrets.PASSWORD }}
+        source: "page/vivy/"
+        target: "/root/"

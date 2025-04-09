@@ -39,10 +39,7 @@ export default defineConfig({
       width: 48,
       height: 48,
     },
-    nav: [
-      { text: 'Guide', link: '/guide/' },
-      { text: 'Changelog', link: '/CHANGELOG.md' },
-    ],
+    nav: [{ text: 'Guide', link: '/guide/' }],
     editLink: {
       pattern: editLinkPattern,
     },
@@ -63,10 +60,7 @@ export default defineConfig({
       lang: 'zh',
       themeConfig: {
         outlineTitle: '在这一页上',
-        nav: [
-          { text: '指南', link: '/zh/guide/' },
-          { text: '更新日志', link: '/zh/CHANGELOG.md' },
-        ],
+        nav: [{ text: '指南', link: '/zh/guide/' }],
         sidebar: {
           '/zh/guide/': [
             {
