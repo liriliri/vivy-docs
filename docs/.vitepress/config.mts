@@ -46,9 +46,13 @@ export default defineConfig({
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/liriliri/vivy-docs',
+        link: 'https://github.com/liriliri/vivy',
       },
     ],
+    footer: {
+      message: 'Released under the AGPL-3.0 License.',
+      copyright: 'Copyright © 2023-present liriliri',
+    },
   },
   locales: {
     root: {
@@ -148,6 +152,10 @@ export default defineConfig({
           text: '提出修改意见',
         },
         lastUpdatedText: '修改日期',
+        footer: {
+          message: '基于 AGPL-3.0 许可发布',
+          copyright: '版权所有 © 2023 至今 liriliri',
+        },
       },
     },
   },
