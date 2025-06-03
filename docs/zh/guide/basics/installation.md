@@ -1,6 +1,6 @@
 # 安装
 
-VIVY 支持 [Windows x64](https://release.liriliri.io/VIVY-1.0.1-win.7z) 和 [macOS ARM](https://release.liriliri.io/VIVY-1.0.1-arm64.dmg) 两个平台。
+VIVY 支持 [Windows x64](https://release.liriliri.io/VIVY-1.0.1-win.7z) 和 [macOS ARM](https://release.liriliri.io/VIVY-1.0.1-mac-arm64.dmg) 两个平台。
 
 ## Windows
 
@@ -17,4 +17,4 @@ SD-WebUI 官方版本尚未支持 AMD 显卡，因此在 VIVY 中无法直接使
 
 ## macOS
 
-macOS 平台对内存和存储空间的要求与 Windows 一致，仅支持 ARM 芯片，直接下载[安装包](https://release.liriliri.io/VIVY-1.0.1-arm64.dmg)并安装运行即可。
+macOS 平台对内存和存储空间的要求与 Windows 一致，仅支持 ARM 芯片，直接下载[安装包](https://release.liriliri.io/VIVY-1.0.1-mac-arm64.dmg)并安装运行即可。
