@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import path from 'path'
 
 const editLinkPattern =
   'https://github.com/liriliri/vivy-docs/edit/master/docs/:path'
@@ -157,6 +158,13 @@ export default defineConfig({
           copyright: '版权所有 © 2023 至今 liriliri',
         },
       },
+    },
+  },
+  vite: {
+    resolve: {
+      alias: [
+        { find: '@share', replacement: path.resolve(__dirname, './share') },
+      ],
     },
   },
   head: [

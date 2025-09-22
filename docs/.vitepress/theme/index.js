@@ -1,4 +1,5 @@
 import DefaultTheme from 'vitepress/theme'
+import 'luna-shader-toy-player/css'
 import './index.css'
 import Icon from './components/Icon.vue'
 import Download from './components/Download.vue'

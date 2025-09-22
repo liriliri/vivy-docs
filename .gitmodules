@@ -1,0 +1,3 @@
+[submodule "docs/.vitepress/share"]
+	path = docs/.vitepress/share
+	url = https://github.com/liriliri/docs-share.git

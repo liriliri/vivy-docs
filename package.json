@@ -24,7 +24,9 @@
   },
   "homepage": "https://github.com/liriliri/vivy-docs#readme",
   "devDependencies": {
+    "@types/node": "^24.5.2",
     "licia": "^1.39.2",
+    "luna-shader-toy-player": "^0.5.1",
     "vitepress": "^1.0.0-rc.22"
   }
 }
