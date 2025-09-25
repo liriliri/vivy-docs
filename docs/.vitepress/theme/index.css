@@ -1,64 +1,9 @@
 :root {
-  --vp-button-brand-bg: #0e639c;
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(
-    120deg,
-    #000 30%,
-    #0e639c
-  );
-  --vp-home-hero-image-background-image: linear-gradient(
-    -45deg,
-    #000 50%,
-    #0e639c 50%
-  );
-  --vp-home-hero-image-filter: blur(40px);
-  --vp-nav-logo-height: 48px;
-}
-
-.VPImage.logo {
-  border-radius: 50%;
+  --vp-button-brand-bg: #6da9c3;
+  --vp-c-brand-1: #6da9c3;
 }
 
 .dark {
-  --vp-button-brand-bg: #0f5788;
-  --vp-home-hero-name-background: -webkit-linear-gradient(
-    120deg,
-    #fff 30%,
-    #0f5788
-  );
-  --vp-home-hero-image-background-image: linear-gradient(
-    -45deg,
-    #fff 50%,
-    #0f5788 50%
-  );
-}
-
-.VPHero .VPImage {
-  max-width: 100%;
-  max-height: 100%;
-}
-
-.custom-block {
-  padding: 8px 16px;
-}
-
-.image-container {
-  transform: none !important;
-}
-
-.vp-doc img {
-  border-radius: 12px;
-  border: 1px solid #eaecef;
-}
-
-@media (min-width: 640px) {
-  :root {
-    --vp-home-hero-image-filter: blur(56px);
-  }
-}
-
-@media (min-width: 960px) {
-  :root {
-    --vp-home-hero-image-filter: blur(72px);
-  }
+  --vp-button-brand-bg: #6093a9;
+  --vp-c-brand-1: #6093a9;
 }

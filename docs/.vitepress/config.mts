@@ -1,5 +1,12 @@
 import { defineConfig } from 'vitepress'
 import path from 'path'
+import {
+  kofi,
+  wechatpay,
+  logo,
+  shareAlias,
+  googleAnalytics,
+} from './share/config.mjs'
 
 const editLinkPattern =
   'https://github.com/liriliri/vivy-docs/edit/master/docs/:path'
@@ -35,16 +42,14 @@ export default defineConfig({
         },
       },
     },
-    logo: {
-      src: '/logo.png',
-      width: 48,
-      height: 48,
-    },
+    logo,
     nav: [{ text: 'Guide', link: '/guide/' }],
     editLink: {
       pattern: editLinkPattern,
     },
     socialLinks: [
+      kofi,
+      wechatpay,
       {
         icon: 'github',
         link: 'https://github.com/liriliri/vivy',
@@ -162,26 +167,8 @@ export default defineConfig({
   },
   vite: {
     resolve: {
-      alias: [
-        { find: '@share', replacement: path.resolve(__dirname, './share') },
-      ],
+      alias: [shareAlias],
     },
   },
-  head: [
-    [
-      'script',
-      {
-        async: '',
-        src: 'https://www.googletagmanager.com/gtag/js?id=G-8K41KLQRS0',
-      },
-    ],
-    [
-      'script',
-      {},
-      `window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-8K41KLQRS0');`,
-    ],
-  ],
+  head: googleAnalytics('G-8K41KLQRS0'),
 })
